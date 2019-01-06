@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Environment>
+    <BrowserType>chrome</BrowserType>
+    <ChromeDriverPath>External_Files/Drivers/Chrome/chromedriver.exe</ChromeDriverPath>
+    <FFDriverPath>External_Files/Drivers/FF/geckodriver.exe</FFDriverPath>
+    <IEDriverPath>External_Files/Drivers/IE/IEDriverServer.exe</IEDriverPath>
+    <driverChrome>webdriver.chrome.driver</driverChrome>
+    <driverFF>webdriver.gecko.driver</driverFF>
+    <driverIE>webdriver.ie.driver</driverIE>
+    <URL>https://www.google.co.il/search?q=google+calculator</URL>
+ <!-- Images to compare-path -->
+ <ImagePath>E:/Users/lenga/fabi/Fabi/WebDriver/screenshot_BMI/sikuli_Images/</ImagePath> 
+ <!-- report-->
+<ReportFilePath>E:/Users/lenga/fabi/Fabi/WebDriver/reports/</ReportFilePath>
+<Reporfilename>Calculator-Run.html</Reporfilename>
+</Environment>
